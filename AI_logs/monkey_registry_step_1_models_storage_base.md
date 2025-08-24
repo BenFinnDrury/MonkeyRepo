@@ -735,7 +735,7 @@ expected: prints `deleted`.
 
 
 
-# step 5 code: tests to lock rules (offline)
+# step 5 code: tests to lock rules 
 
 > add these files, then run `pytest -q` from project root (with `PYTHONPATH=src` not required if you have `pytest.ini` set as below).
 
